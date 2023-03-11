@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\BusinessObject\\BusinessObject.csproj",
-      "projectName": "BusinessObject",
-      "projectPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj",
+      "projectName": "DBConnection",
+      "projectPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj",
       "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\BusinessObject\\obj\\",
+      "outputPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",

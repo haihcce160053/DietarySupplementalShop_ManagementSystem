@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DietarySupplementalShopApp\\DietarySupplementalShopApp.csproj": {}
+    "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DietarySupplementalShopApp\\DietarySupplementalShopApp.csproj": {
+    "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DietarySupplementalShopApp\\DietarySupplementalShopApp.csproj",
-        "projectName": "DietarySupplementalShopApp",
-        "projectPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DietarySupplementalShopApp\\DietarySupplementalShopApp.csproj",
+        "projectUniqueName": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj",
+        "projectName": "DBConnection",
+        "projectPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\DBConnection.csproj",
         "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DietarySupplementalShopApp\\obj\\",
+        "outputPath": "C:\\Users\\huynh\\source\\repos\\DietarySupplementalShop_ManagementSystem\\DBConnection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -53,9 +53,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
